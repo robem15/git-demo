@@ -3,11 +3,8 @@
 This is the first file in this repo.
 
 
-##Ipsum Below
-FJKDSFJLA
-FKDLSJFLKSD
-JFKLDSAJF
-FJKSLDAJFD
-FJDSKLAFJ
+##WEBSITE CONTENTS
 
-MORE RANDOM WORDS
+1. index.html
+
+
